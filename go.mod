@@ -1,3 +1,3 @@
-module flight-over-my-hours
+module AirTraffic-Monitor
 
 go 1.22
