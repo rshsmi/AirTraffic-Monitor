@@ -1,4 +1,4 @@
-# AirTraffic-Monitor
+# AirTraffic-Monitor ✈️ 
 
 Real-time aircraft monitoring system for North London airspace, featuring live data acquisition, enrichment, and a stylized web interface with airport-style flip board animations.
 
